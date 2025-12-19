@@ -11,7 +11,7 @@ This project recommends suitable crops based on soil nutrients and environmental
 - Jupyter Notebook
 
 ## Project Files
-- index.ipynb : Main notebook containing data preprocessing, ANN model training, and crop prediction.
+- ipynb file (1).ipynb : Main notebook containing data preprocessing, ANN model training, and crop prediction.
 
 ## Note
 Some notebook outputs may not render properly on GitHub. Please use nbviewer for full visualization.
